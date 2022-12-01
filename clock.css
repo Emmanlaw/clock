@@ -1,0 +1,10 @@
+.clock {
+    font-size: 100px;
+    border: 10px solid black;
+    border-radius: 25px;
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(80, 75, 75);
+    color: red;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
